@@ -22,6 +22,15 @@ This project demonstrates a recipe generation system that combines object detect
 - streamlit
 - Pill (for image handling)
 - numpy
+
+  ### How to install requirements
+`
+pip install -r requirements.txt
+`
+### How to run source code
+`
+python utils.py
+`
 ## Usage
 
 - Run the Streamlit App:
